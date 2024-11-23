@@ -1,4 +1,4 @@
-## MVP Dating App Tinder
+## MVP Tinder Dating
 
 The functionality of app is as follows: You sign up by providing your e-mail,password,name,title and upload photo. If you are already registered you may simply sign in. You are then directed to like-dislike page where can choose users with whom you want to chat. Your preferences are saved even after you quit the app. You are free to dislike user you liked before and vice-versa. After sliding through all of the users you are directed to My Mate List-> there you may see name, status and last activity time of your mates. Last activity is the time you were last seen-your logout time. When you click on the row with the user you may switch to chat. All send messages come with user image and the time it was sended. Once you finish you may log out.
 
